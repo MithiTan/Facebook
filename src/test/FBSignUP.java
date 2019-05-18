@@ -1,5 +1,12 @@
 package test;
 
-public class FBSignUP {
+import base.Config;
+
+public class FBSignUP extends Config {
+	
+	
+	
+	
+	
 
 }
